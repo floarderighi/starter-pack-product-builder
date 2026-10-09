@@ -2,6 +2,8 @@
 
 **7 fichiers pour construire un produit avec une IA de code (Claude Code, Codex, Gemini CLI) sans qu'elle perde le fil.** Tu les remplis en conversation avec ton agent. Ensuite, il les relit à chaque session et les tient à jour.
 
+La page du pack, avec le replay du webinar : [trackrecord.pm/starter-pack](https://trackrecord.pm/starter-pack).
+
 > Ce que l'IA ne peut pas lire n'existe pas.
 
 ## D'où vient ce pack
